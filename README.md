@@ -1,6 +1,6 @@
-# pomfe.co
+# 12k.moe
 
-Pomfe.co's Source Code
+12k.moe's Source Code
 
 # What you need for this source:
 * Nginx --> http://nginx.org/en/ (Recommended)
