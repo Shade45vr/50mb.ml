@@ -1,14 +1,14 @@
 {
-"Name": "pomfe.co",
+"Name": "12k.moe",
 "RequestType": "POST",
-"RequestURL": "https://pomfe.co/upload.php",
+"RequestURL": "https://12k.moe/upload.php",
 "FileFormName": "files[]",
 "Arguments": { },
 "ResponseType": "Text",
 "RegexList": [
 "\"url\":\"(?:.+\\\\/)?(.*?)\""
 ],
-"URL": "https://a.pomfe.co/$1,1$",
+"URL": "https://o.12k.moe/$1,1$",
 "ThumbnailURL": "",
 "DeletionURL": ""
 }
