@@ -2,17 +2,17 @@
 
 // PDO socket
 // Or using socket would be even faster then 127.0.0.1 :3
-define('POMF_DB_CONN', 'mysql:host=127.0.0.1;dbname=pomf');
+define('POMF_DB_CONN', 'mysql:host=127.0.0.1;dbname=12kmoe');
 // MySQL user and password
 define('POMF_DB_USER', '');
 define('POMF_DB_PASS', '');
 
 // Root location of files
-define('POMF_FILES_ROOT', '/home/lolihook/www-data/pomfe/files/');
+define('POMF_FILES_ROOT', '/home/12kmoehost/public_html/12k.moe/files/');
 // Maximum number of iterations while generating a new name
 define('POMF_FILES_RETRIES', 15);
 // URL to prepend to output (include trailing slash)
-define('POMF_URL', 'https://a.pomfe.co/');
+define('POMF_URL', 'https://o.12k.moe/');
 
 $doubledots = array_map('strrev', array(
 	'tar.gz',
