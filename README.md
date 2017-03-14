@@ -2,6 +2,9 @@
 
 12k.moe's Source Code
 
+# NEW
+* Added .htaccess in /files/ to prevent shell upload via .php
+
 # What you need for this source:
 * Nginx --> http://nginx.org/en/ (Recommended)
 * PHP --> http://php.net/PHP
