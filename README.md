@@ -5,7 +5,8 @@ http://50mb.ml/
 
 12k.moe's Source Code
 
-# NEW
+# NEWS
+* Update ( 3/22/2017 ) .htaccess to prevent html files upload
 * Added .htaccess in /files/ to prevent shell upload via .php
 
 # What you need for this source:
