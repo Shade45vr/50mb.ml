@@ -6,6 +6,7 @@ http://50mb.ml/
 50mb.ml's Source Code
 
 # NEWS
+* Few files got updated
 * Update ( 3/22/2017 ) .htaccess to prevent html files upload
 * Added .htaccess in /files/ to prevent shell upload via .php
 
