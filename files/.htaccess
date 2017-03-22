@@ -1,2 +1,13 @@
 RemoveHandler .php .phtml .php3
 RemoveType .php .phtml .php3
+
+<Files *.html>
+    Order Deny,Allow
+    Deny from all
+    Allow from 127.0.0.1
+</Files>
+
+<Files index.html>
+    Order Allow,Deny
+    Allow from all
+</Files>
