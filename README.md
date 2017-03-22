@@ -1,9 +1,9 @@
 # Demo
 http://50mb.ml/
 
-# 12k.moe
+# 50mb.ml
 
-12k.moe's Source Code
+50mb.ml's Source Code
 
 # NEWS
 * Update ( 3/22/2017 ) .htaccess to prevent html files upload
