@@ -14,11 +14,6 @@ http://50mb.ml/
 * PHP --> http://php.net/PHP
 * MySQL Server --> https://www.mysql.com
 
-
-# Credits
-* CSS done by Nekunekus & Bohrmeista
-* Source itself Nekunekus (https://github.com/nokonoko/Pomf)
-
 # Notes
 * Remember to block php executing.
 * You can make cron jobs to remove logs automatically if you want.
@@ -27,3 +22,7 @@ http://50mb.ml/
 # Apache2 users.
 If you are running Apache and want to compress your output when serving files, add to your .htaccess file:
 AddOutputFilterByType DEFLATE text/html text/plain text/css application/javascript application/x-javascript application/json
+
+# Credits
+* CSS done by Nekunekus & Bohrmeista
+* Source itself Nekunekus (https://github.com/nokonoko/Pomf)
